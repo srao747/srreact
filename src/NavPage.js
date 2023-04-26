@@ -6,7 +6,7 @@ export default function NavPage() {
     const [articles, setArticles] = useState([])
     useEffect(() => {
         const getArticles = async () => {
-            const response = await axios.get(`https://newsapi.org/v2/top-headlines?pageSize=6&country=in&apiKey=f5010aa1fefe47258db55540100af60c`)
+            const response = await axios.get(`https://newsapi.org/v2/top-headlines?pageSize=6&country=in&apiKey`)
             setArticles(response.data.articles)
             console.log(response)
         }
