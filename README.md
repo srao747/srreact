@@ -15,4 +15,4 @@ AJAX
 
 //
 
-i was able to work out the nav page by not tweaking anything.the nav just showed up at this time of execution and i recorded it. the link is https://drive.google.com/file/d/1EaDh8RUPoWwMG28ak6qUM_CJs2jOE7t4/view?usp=drivesdk
+https://drive.google.com/file/d/1EaDh8RUPoWwMG28ak6qUM_CJs2jOE7t4/view?usp=drivesdk
